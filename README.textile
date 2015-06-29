@@ -1,0 +1,1 @@
+Scrapes the RSS feed from the WA "FuelWatch":http://www.fuelwatch.wa.gov.au/fuelwatch/ site.
